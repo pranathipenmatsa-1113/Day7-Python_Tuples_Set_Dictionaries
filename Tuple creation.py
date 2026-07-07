@@ -1,0 +1,5 @@
+numbers=(10,20,30,40,50)
+print(numbers)
+print("\n---------------")
+print(" Code Executed Sucessfully----")
+input("Please click enter to exit")

@@ -1,0 +1,18 @@
+print("Set operations")
+print("\n-----------------------")
+print("UNION")
+A = {1,2,3}
+B = {3,4,5}
+print(A|B)
+print("\n-------------------------")
+print("INTERSECTION")
+print(A&B)
+print("\n-------------------------")
+print("DIFFERENCE")
+print(A-B)
+print("\n-------------------------")
+print("SYMMETRIC DIFFERENCE")
+print(A^B)
+print("\n-------------------------")
+print("Code Generated Successfully")
+input("Please Click Enter to Exit")
